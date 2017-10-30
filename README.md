@@ -1,2 +1,3 @@
 # vim-config
-Mostly my vimrc. ( and maybe cheat sheets, plugins ... )
+Mostly my vimrc. 
+( and maybe cheat sheets, plugins ... )
