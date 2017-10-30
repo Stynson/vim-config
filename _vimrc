@@ -47,6 +47,7 @@ map k gk
 "Disable highlight
 map <silent> <leader><cr> :noh<cr>
 map <silent> <space> :noh<cr>
+
 "==========================================="
 "                General                    "
 "==========================================="
